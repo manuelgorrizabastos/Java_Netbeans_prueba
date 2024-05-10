@@ -6,7 +6,7 @@ package javaapplication20;
 
 /**
  *
- * @author DAW6W - modificado por manu
+ * @author DAW6W - modificado por manu el viernes
  */
 public class JavaApplication20 {
 
